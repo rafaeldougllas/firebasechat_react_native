@@ -19,7 +19,7 @@
 <img src="images/profile_screen.png" > <br>
 
 ## How to run
-* MacOs: In terminal executes the following code:
+* MacOs: In terminal, open the project directory and executes the following code:
 ```
 $ react-native run-ios --simulator='iPhone 7'
 ```
