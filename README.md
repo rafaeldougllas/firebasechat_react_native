@@ -25,6 +25,8 @@ $ react-native run-ios --simulator='iPhone 7'
 ```
 
 ## Contact
-* Rafael.dougllas@gmail.com
+* Rafael.dougllas@gmail.com <br>
+
+- [Linkedin](https://www.linkedin.com/in/rafael-douglas-093788a6/)<br>
 
 
