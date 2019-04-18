@@ -8,13 +8,13 @@
 * App created in react native with the aim of practicing the knowledge of javascript, react native and firebase <br>
 
 ### Screens
-* Login Screen
+## Login Screen
 <img src="images/login_screen.png" > <br>
-* Chats Screen
+## Chats Screen
 <img src="images/chats_screen.png" > <br>
-* Chat Screen
+## Chat Screen
 <img src="images/chat_screen.png" > <br>
-* Profile Screen
+## Profile Screen
 <img src="images/profile_screen.png" > <br>
 
 ### How to run
